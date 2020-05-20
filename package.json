@@ -1,5 +1,5 @@
 {
-  "name": "@webfaas/webfaas-server.git",
+  "name": "@webfaas/webfaas-server",
   "version": "0.1.0",
   "description": "WebFaaS Framework - Server",
   "main": "lib/index.js",
