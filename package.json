@@ -1,6 +1,6 @@
 {
   "name": "@webfaas/webfaas-server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "WebFaaS Framework - Server",
   "main": "lib/index.js",
   "readmeFilename": "README.md",
