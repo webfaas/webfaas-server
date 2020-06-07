@@ -1,6 +1,6 @@
 {
   "name": "@webfaas/webfaas-server",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "WebFaaS Framework - Server",
   "main": "lib/index.js",
   "readmeFilename": "README.md",
@@ -29,7 +29,7 @@
     "url": "git@github.com:webfaas/webfaas-server.git"
   },
   "dependencies": {
-    "@webfaas/webfaas": "^0.4.1",
+    "@webfaas/webfaas": "^0.4.2",
     "@webfaas/webfaas-plugin-packageregistryrouting": "^0.2",
     "@webfaas/webfaas-plugin-packageregistry-npm": "^0.2",
     "@webfaas/webfaas-plugin-packageregistry-github": "^0.2",
@@ -38,13 +38,13 @@
     "@webfaas/webfaas-plugin-endpoint-http": "^0.4"
   },
   "devDependencies": {
-    "@types/chai": "^4.2",
-    "@types/mocha": "^7.0",
-    "@types/node": "^13.7",
+    "@types/chai": "^4.2.11",
+    "@types/mocha": "^7.0.2",
+    "@types/node": "^13.13.10",
     "chai": "^4.2",
-    "mocha": "^7.1",
-    "nyc": "^15.0",
-    "typescript": "^3.8",
+    "mocha": "^7.2.0",
+    "nyc": "^15.1.0",
+    "typescript": "^3.9.5",
     "typescript-tslint-plugin": "^0.5"
   },
   "engines": {
